@@ -8,4 +8,3 @@ The CSV files used to populate the database were originally sourced from Spotify
 -- Wikipedia
 ## Included files
 DAO and POJO files for the Data Access Layer.
-
