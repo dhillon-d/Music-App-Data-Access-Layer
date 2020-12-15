@@ -4,3 +4,7 @@ that translated to CRUD operations in a MySQL database. Simple tasks included cr
 The CSV files used to populate the database were originally sourced from Spotify.
 ## Included files
 DAO and POJO files for the Data Access Layer.
+## What is a Data Access Layer?
+>A data access layer (DAL) in computer software is a layer of a computer program which provides simplified access to data stored in persistent storage of some kind, such as an entity-relational database.
+
+-- Wikipedia
